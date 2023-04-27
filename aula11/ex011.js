@@ -16,3 +16,4 @@ function verificar(){
         res.innerHTML += `<p>Voce é <strong>Estrangeiro</strong>.</p>`
     }
 }
+
